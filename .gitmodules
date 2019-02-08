@@ -1,0 +1,6 @@
+[submodule "tools"]
+	path = tools
+	url = git@github.com:ariksavage/devops-tools.git
+[submodule "vagrant"]
+	path = vagrant
+	url = git@github.com:ariksavage/devops-vagrant-debian.git
