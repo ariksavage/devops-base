@@ -1,0 +1,34 @@
+{
+  "name": "base-box",
+  "version": "1.0.0",
+  "description": "Base gulp resources for a web build",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariksavage/devops-base.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "lint"
+  ],
+  "author": "Arik Savage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariksavage/devops-base/issues"
+  },
+  "homepage": "https://github.com/ariksavage/devops-base#readme",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-flatten": "^0.4.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sass-lint": "^1.4.0"
+  }
+}

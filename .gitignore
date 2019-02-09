@@ -1,2 +1,6 @@
+.DS_Store
 tools/*
 vagrant/*
+node_modules/*
+apache_logs/*
+config/*
