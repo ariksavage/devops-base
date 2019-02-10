@@ -4,3 +4,4 @@ vagrant/*
 node_modules/*
 apache_logs/*
 config/*
+http/*
