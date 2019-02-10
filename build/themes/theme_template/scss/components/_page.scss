@@ -1,0 +1,25 @@
+body {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+}
+
+header {
+  width: 96%;
+  height: 5vh;
+  padding: 0 2%;
+  border-bottom: 1px solid $color-borders;
+}
+
+main {
+  width: 96%;
+  min-height: 90vh;
+  padding: 0 2%;
+}
+
+footer {
+  width: 96%;
+  height: 5vh;
+  padding: 0 2%;
+  border-top: 1px solid $color-borders;
+}

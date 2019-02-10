@@ -1,0 +1,13 @@
+/*
+Theme Name: [Name]
+Author: [You]
+Description: [Description]
+Version: 0.0.1
+Tags:
+*/
+
+// Imports must be relative to the gulpfile
+@import 'build/themes/THEME_FOLDER/scss/globals/colors';
+@import 'build/themes/THEME_FOLDER/scss/globals/typography';
+
+@import 'build/themes/THEME_FOLDER/scss/components/page';

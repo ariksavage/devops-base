@@ -6,7 +6,7 @@
  */
 ?>
 <?php get_template_part( 'head', 'head' ); ?>
-<body class="theme-name-theme index">
+<body class="theme-name-theme template-page">
   <?php get_header(); ?>
   <main id="main" class="site-main">
     <?php

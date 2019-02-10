@@ -17,15 +17,15 @@ const paths = {
   themes: {
     scss: [
       './build/themes/**/*.scss',
-      '!./build/themes/theme_template/*'
+      '!./build/themes/theme_template/**/*'
     ],
     php:  [
       './build/themes/**/*.php',
-      '!./build/themes/theme_template/*'
+      '!./build/themes/theme_template/**/*'
     ],
     js:   [
       './build/themes/**/*.js',
-      '!./build/themes/theme_template/*'
+      '!./build/themes/theme_template/**/*'
     ],
     img:  [
       './build/themes/**/*.jpg',
@@ -33,7 +33,7 @@ const paths = {
       './build/themes/**/*.png',
       './build/themes/**/*.gif',
       './build/themes/**/*.svg',
-      '!./build/themes/theme_template/*'
+      '!./build/themes/theme_template/**/*'
     ],
     dest: wp_content+'/themes'
   },
@@ -56,6 +56,9 @@ function themeScss() {
   let infofile = 'nothing yet';
   return gulp
   .src(paths.themes.scss)
+  .pipe(rename(function(file){
+    file.dirname = file.dirname.split('/')[0];
+  }))
   .pipe(sassLint({configFile: './.scss-lint.yml'}))
   .pipe(sassLint.format())
   .pipe(sassLint.failOnError())
@@ -68,16 +71,8 @@ function themeScss() {
   }))
   .pipe(gulp.dest(paths.themes.dest));
 }
-function themeScssLint() {
-  return gulp
-  .src(paths.themes.scss)
-  .pipe(sassLint({configFile: './.scss-lint.yml'}))
-  .pipe(sassLint.format())
-  .pipe(sassLint.failOnError())
-}
 
-gulp.task( "theme:scssLint", themeScssLint );
-gulp.task( "theme:scss", gulp.series(themeScssLint, themeScss) );
+gulp.task( "theme:scss", gulp.series(themeScss) );
 
 // PHP
 function themePhp() {
