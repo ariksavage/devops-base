@@ -15,10 +15,26 @@ const imagemin     = require('gulp-imagemin');
 const wp_content = './http/wp-content';
 const paths = {
   themes: {
-    scss: ['./build/themes/**/*.scss', '!./build/themes/theme_template/*'],
-    php: ['./build/themes/**/*.php', '!./build/themes/theme_template/*'],
-    js: ['./build/themes/**/*.js', '!./build/themes/theme_template/*'],
-    img: ['./build/themes/**/*.jpg', './build/themes/**/*.jpeg', './build/themes/**/*.png', './build/themes/**/*.gif', './build/themes/**/*.svg', '!./build/themes/theme_template/*'],
+    scss: [
+      './build/themes/**/*.scss',
+      '!./build/themes/theme_template/*'
+    ],
+    php:  [
+      './build/themes/**/*.php',
+      '!./build/themes/theme_template/*'
+    ],
+    js:   [
+      './build/themes/**/*.js',
+      '!./build/themes/theme_template/*'
+    ],
+    img:  [
+      './build/themes/**/*.jpg',
+      './build/themes/**/*.jpeg',
+      './build/themes/**/*.png',
+      './build/themes/**/*.gif',
+      './build/themes/**/*.svg',
+      '!./build/themes/theme_template/*'
+    ],
     dest: wp_content+'/themes'
   },
   scss: {
@@ -106,7 +122,7 @@ function themeWatch() {
 gulp.task( "theme", gulp.series(themeScss, themePhp, themeJs, themeImages, themeWatch ) );
 
 /********** END THEMES **********/
-
+gulp.task( "wordpress", gulp.series("theme"));
 /**
 * SASS
 **/
@@ -144,5 +160,5 @@ function watch() {
   gulp.watch( paths.scss.src, { usePolling: true }, scss );
 }
 
-gulp.task( "default", gulp.series(scss, watch ) );
+gulp.task( "default", gulp.series('wordpress' ) );
 
