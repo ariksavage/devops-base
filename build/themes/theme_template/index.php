@@ -10,33 +10,19 @@
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  */
 ?>
-<!doctype html>
-<html <?php language_attributes(); ?>>
-<head>
-  <meta charset="<?php bloginfo( 'charset' ); ?>" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="profile" href="https://gmpg.org/xfn/11" />
-  <?php wp_head(); ?>
-</head>
-<?php get_header(); ?>
-
-  <section id="primary" class="content-area">
-    <main id="main" class="site-main">
-
+<?php get_template_part( 'head', 'head' ); ?>
+<body class="theme-name-theme index">
+  <?php get_header(); ?>
+  <main id="main" class="site-main">
     <?php
     if ( have_posts() ) {
-
-      // Load posts loop.
       while ( have_posts() ) {
         the_post();
         the_content();
       }
-
     } else {
       echo "No posts found";
     }
     ?>
-    </main><!-- .site-main -->
-  </section><!-- .content-area -->
-
-<?php get_footer();
+  </main><!-- .site-main -->
+  <?php get_footer();
