@@ -1,0 +1,58 @@
+// System Fonts
+$font-arial:           Arial, 'Helvetica Neue', Helvetica, sans-serif;
+$font-times-new-roman: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;
+$font-lucida-sans-typewriter: 'Lucida Sans Typewriter', 'Lucida Console', monaco, 'Bitstream Vera Sans Mono', monospace;
+$font-brush-script-mt: 'Brush Script MT', cursive;
+// Custom Fonts
+//eg.
+// $font-name: 'Coronamatic 67';
+// $font-path: fonts/coronamatic_67/coronamatic_67-booked;
+
+// // @see _mixins.scss
+// @include font-face($font-name, $font-path);
+// $font-coronamatic: $font-name, $font-lucida-sans-typewriter;
+
+// Site Families
+$monospace-font: $font-lucida-sans-typewriter;
+$serif-font: $font-times-new-roman;
+$sans-serif-font: $font-arial;
+$script-font: $font-brush-script-mt;
+
+$font-size-increment: .2em;
+$text-margin: 0 0 .5em;
+$font-base: 16px;
+
+body {
+  font-size: $font-base;
+  font-family: $sans-serif-font;
+}
+
+p {
+  margin: $text-margin;
+  font-size: 1em;
+}
+
+h5 {
+  margin: $text-margin;
+  font-size: 1em + (1 * $font-size-increment);
+}
+
+h4 {
+  margin: $text-margin;
+  font-size: 1em + (2 * $font-size-increment);
+}
+
+h3 {
+  margin: $text-margin;
+  font-size: 1em + (3 * $font-size-increment);
+}
+
+h2 {
+  margin: $text-margin;
+  font-size: 1em + (4 * $font-size-increment);
+}
+
+h1 {
+  margin: $text-margin;
+  font-size: 1em + (5 * $font-size-increment);
+}
