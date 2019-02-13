@@ -4,7 +4,7 @@
   "description": "Base gulp resources for a web build",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "gulp"
+    "test": "mocha tests/index.js"
   },
   "repository": {
     "type": "git",
@@ -31,6 +31,8 @@
     "gulp-imagemin": "^5.0.3",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2",
-    "gulp-sass-lint": "^1.4.0"
+    "gulp-sass-lint": "^1.4.0",
+    "mocha": "^5.2.0",
+    "nightmare": "^3.0.1"
   }
 }
