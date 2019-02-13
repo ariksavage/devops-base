@@ -18,10 +18,12 @@ const Nightmare = nightmare({
 const basic = require(nightmareModules+'basic.module');
 const Basic = new basic(Config, Nightmare);
 
+const drupal7 = require(nightmareModules+'drupal7.module');
+const Drupal7 = new drupal7(Config, Nightmare);
 
 // Run tests
-Basic.testPageLoad('/supplements');
-Basic.testPageLoad('/beauty-health/hair-skin-nails-capsules');
+Basic.testPageLoad('');
+Drupal7.testLogin();
 var end = function() {
   describe('-----------------------------------------------------', function(){
     it('End Nightmare Tests', function*(){
