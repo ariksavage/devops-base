@@ -1,0 +1,26 @@
+{
+  "name": "moxy-devops-tests",
+  "version": "1.0.0",
+  "description": "Nightmare JS etc for web development testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ariksavage/devops-test.git"
+  },
+  "author": "Arik Savage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariksavage/devops-test/issues"
+  },
+  "homepage": "https://github.com/ariksavage/devops-test#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "fs": "0.0.1-security",
+    "js-yaml": "^3.12.1",
+    "mocha": "^5.2.0",
+    "mocha-generators": "^2.0.0"
+  }
+}
