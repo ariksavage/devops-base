@@ -13,6 +13,19 @@ const sassLint       = require('gulp-sass-lint');
 const autoprefixer   = require('gulp-autoprefixer');
 
 const paths = {
+  blocks: {
+    source: [
+      './build/blocks/**/dist/*',
+      './build/blocks/**/src/init.php',
+      // './build/blocks/**/src/blocks.js',
+      './build/blocks/**/plugin.php',
+      './build/blocks/**/src/README.md',
+      '!./build/blocks/**/node_modules/',
+      '!./build/blocks/**/node_modules/**/*'
+    ],
+    destination: './http/wp-content/plugins/'
+  },
+
   root: {
     source: './build/root/**/*.*',
     destination: './http'
@@ -68,7 +81,16 @@ const paths = {
     destination: './http/docs'
   }
 }
+/*******************************************************************************
+* WORDPRESS BLOCKS
+*
+*******************************************************************************/
 
+function WPblocks(){
+  return gulp.src(paths.blocks.source)
+  .pipe(gulp.dest(paths.blocks.destination));
+}
+gulp.task('wp:blocks', WPblocks);
 /*******************************************************************************
 * SASS
 * Compile and lint SCSS
@@ -164,13 +186,17 @@ gulp.task('root', root);
 * META
 *******************************************************************************/
 function watch() {
-  gulp.watch(paths.scss.source,    { usePolling: true }, scss);
-  gulp.watch(paths.js.source,      { usePolling: true }, js);
-  gulp.watch(paths.images.source,  { usePolling: true }, images);
-  gulp.watch(paths.fonts.source,   { usePolling: true }, fonts);
-  gulp.watch(paths.text.source,    { usePolling: true }, text);
-  gulp.watch(paths.root.source,    { usePolling: true }, root);
+  // gulp.watch(paths.scss.source,    { usePolling: true }, scss);
+  // gulp.watch(paths.js.source,      { usePolling: true }, js);
+  // gulp.watch(paths.images.source,  { usePolling: true }, images);
+  // gulp.watch(paths.fonts.source,   { usePolling: true }, fonts);
+  // gulp.watch(paths.text.source,    { usePolling: true }, text);
+  // gulp.watch(paths.root.source,    { usePolling: true }, root);
 }
 
+function WPwatch(){
+  gulp.watch(paths.blocks.source,    { usePolling: true }, WPblocks);
+}
+gulp.task('wordpress', gulp.series(WPblocks, WPwatch));
 gulp.task('default', gulp.series(scss, js, images, fonts, text, root, watch));
 })();
