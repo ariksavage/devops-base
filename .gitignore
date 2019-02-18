@@ -10,3 +10,5 @@ http/*
 certificates/*
 sites-available/
 build/**/node_modules/*
+# Blocks
+build/blocks/**/dist
