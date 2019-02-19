@@ -1,9 +1,16 @@
 .DS_Store
+apache_logs/*
+#build
+config/*
+db/*
+http/*
+node_modules/*
+sites-available/*
+tests/*
 tools/*
 vagrant/*
-node_modules/*
-apache_logs/*
-config/*
-http/*
+
+# Files
+.DS_Store
 .env*
 !.env.example

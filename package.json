@@ -4,7 +4,8 @@
   "description": "Base gulp resources for a web build",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "mocha tests/index.js"
+    "test": "mocha tests/index.js",
+    "tools": "tools/index.js"
   },
   "repository": {
     "type": "git",
