@@ -1,7 +1,11 @@
 .DS_Store
+config/*
+db/*
+logs/*
+node_modules/*
+sites-available/*
+sites-enabled/*
+tests/nightmare/*
 tools/*
 vagrant/*
-node_modules/*
-apache_logs/*
-config/*
-http/*
+web/*
