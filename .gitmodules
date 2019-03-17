@@ -4,3 +4,6 @@
 [submodule "vagrant"]
 	path = vagrant
 	url = git@github.com:ariksavage/devops-vagrant-debian.git
+[submodule "tests/nightmare"]
+	path = tests/nightmare
+	url = git@github.com:ariksavage/devops-test.git

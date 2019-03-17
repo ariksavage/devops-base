@@ -9,3 +9,4 @@ tests/nightmare/*
 tools/*
 vagrant/*
 web/*
+build/blocks/**/dist

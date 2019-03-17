@@ -1,0 +1,16 @@
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+
+.moxy-link-image {
+	.moxy-li-text {
+		background: transparent;
+
+		&:focus {
+			background: rgba(255,255,255, .4);
+		}
+	}
+}
