@@ -1,0 +1,9 @@
+{
+  "plugins":[
+    "https://downloads.wordpress.org/plugin/cache-control.2.2.3.zip",
+    "https://downloads.wordpress.org/plugin/contact-form-7.5.1.1.zip",
+    "https://downloads.wordpress.org/plugin/optimus.zip",
+    "https://downloads.wordpress.org/plugin/speed-booster-pack.3.7.6.zip",
+    "https://downloads.wordpress.org/plugin/wp-mail-smtp.1.4.1.zip"
+  ]
+}
