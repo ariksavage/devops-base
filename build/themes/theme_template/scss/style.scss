@@ -1,13 +1,14 @@
-/*
-Theme Name: [Name]
-Author: [You]
-Description: [Description]
-Version: 0.0.1
+/*!
+Theme Name: Theme Template
+Author: Arik Savage
+Description: Template for a theme
+Version: 0.1.0
 Tags:
 */
 
 // Imports must be relative to the gulpfile
-@import 'build/themes/THEME_FOLDER/scss/globals/colors';
-@import 'build/themes/THEME_FOLDER/scss/globals/typography';
+@import 'build/themes/theme_template/scss/globals/mixins';
+@import 'build/themes/theme_template/scss/globals/colors';
+@import 'build/themes/theme_template/scss/globals/typography';
 
-@import 'build/themes/THEME_FOLDER/scss/components/page';
+@import 'build/themes/theme_template/scss/components/page';
