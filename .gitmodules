@@ -7,3 +7,6 @@
 [submodule "tests/nightmare"]
 	path = tests/nightmare
 	url = git@github.com:ariksavage/devops-test.git
+[submodule "gulp"]
+  path = gulp
+  url = git@github.com:ariksavage/devops-gulp.git
