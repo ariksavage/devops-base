@@ -9,6 +9,7 @@ sites-available/*
 tests/*
 tools/*
 vagrant/*
+web/*
 
 # Files
 .DS_Store
