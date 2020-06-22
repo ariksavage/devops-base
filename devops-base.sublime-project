@@ -1,0 +1,41 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+      "name": "Root"
+		},
+    {
+      "path": "build",
+      "name": "Build"
+    },
+    {
+      "path": "config",
+      "name": "Config"
+    },
+    {
+      "path": "tools",
+      "name": "Tools"
+    },
+    {
+      "path": "db",
+      "name": "Database"
+    },
+    {
+      "path": "gulp",
+      "name": "Gulp"
+    },
+    {
+      "path": "tests",
+      "name": "Tests"
+    },
+    {
+      "path": "vagrant",
+      "name": "Vagrant"
+    },
+    {
+      "path": "web",
+      "name": "Web"
+    }
+	]
+}

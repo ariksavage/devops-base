@@ -15,3 +15,7 @@ web/*
 .DS_Store
 .env*
 !.env.example
+
+# Generated files
+build/style/globals/_base-icons.scss
+build/style/globals/_fonts.scss

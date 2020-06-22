@@ -1,0 +1,1420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"fontFace"
+			],
+			[
+				"for",
+				"formatFontFace"
+			],
+			[
+				"repl",
+				"replaceAll"
+			],
+			[
+				"rep",
+				"replaceAll"
+			],
+			[
+				"title",
+				"titleCase"
+			],
+			[
+				"li",
+				"librarySrc"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"wri",
+				"writeSass"
+			],
+			[
+				"style",
+				"styleDir"
+			],
+			[
+				"sty",
+				"styleDest"
+			],
+			[
+				"current",
+				"current_route_name"
+			],
+			[
+				"displ",
+				"display_mode"
+			],
+			[
+				"dis",
+				"display_mode"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"stat",
+				"staticOptions"
+			],
+			[
+				"va",
+				"variables"
+			],
+			[
+				"fo",
+				"formatFontFace"
+			],
+			[
+				"theme",
+				"themeOptions"
+			],
+			[
+				"grid",
+				"grid-gap"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"path",
+				"path_alias"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"pag",
+				"page-break-inside"
+			],
+			[
+				"page-brea",
+				"page-break-after"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"site",
+				"siteTasks"
+			],
+			[
+				"si",
+				"siteName"
+			],
+			[
+				"themes",
+				"themesWatch"
+			],
+			[
+				"th",
+				"theme"
+			],
+			[
+				"gulp",
+				"gulp/drupal8.module.js"
+			],
+			[
+				"dr",
+				"gulp/drupal8.module.js"
+			],
+			[
+				"The",
+				"ThemeMove"
+			],
+			[
+				"the",
+				"themeSeries"
+			],
+			[
+				"them",
+				"themeTasks"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"stri",
+				"stristr"
+			],
+			[
+				"site_contact",
+				"site_contact_info"
+			],
+			[
+				"unicode-",
+				"unicode-mdash"
+			],
+			[
+				"page",
+				"page-break-after"
+			],
+			[
+				"node",
+				"nodeRel"
+			],
+			[
+				"data",
+				"data-relevance"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"data-",
+				"data-skills"
+			],
+			[
+				"strea",
+				"inputStream"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"scr",
+				"scriptName"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"translate",
+				"translateY"
+			],
+			[
+				"latest",
+				"latest_db"
+			],
+			[
+				"result",
+				"result_path"
+			],
+			[
+				"creat",
+				"create_user"
+			],
+			[
+				"create",
+				"create_db"
+			],
+			[
+				"install",
+				"install_dependencies"
+			],
+			[
+				"NO",
+				"NodeJS"
+			],
+			[
+				"mysq",
+				"mysql_secure_installation"
+			],
+			[
+				"congi",
+				"config_json"
+			],
+			[
+				"host",
+				"hostfile"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"preg",
+				"preg_replace"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"new",
+				"newname"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"se",
+				"secondary"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"secon",
+				"secondary_re"
+			],
+			[
+				"pre",
+				"preg_match"
+			],
+			[
+				"is",
+				"is_integer"
+			],
+			[
+				"etc",
+				"etc_groups"
+			],
+			[
+				"tra",
+				"transformedFile"
+			],
+			[
+				"vinyl",
+				"vinylFile"
+			],
+			[
+				"php",
+				"PHPmodule"
+			],
+			[
+				"vin",
+				"vinylFile"
+			],
+			[
+				"save",
+				"saveUser"
+			],
+			[
+				"getUser",
+				"getUserByID"
+			],
+			[
+				"app",
+				"app-color"
+			],
+			[
+				"di",
+				"directoryOptions"
+			],
+			[
+				"co",
+				"color-text-invert"
+			],
+			[
+				"fileem",
+				"fileatime"
+			],
+			[
+				"toggl",
+				"toggleMembership"
+			],
+			[
+				"color",
+				"color-text"
+			],
+			[
+				"field",
+				"field-border-radius"
+			],
+			[
+				"colo",
+				"color-accent"
+			],
+			[
+				"color-text",
+				"color-text-invert"
+			],
+			[
+				"color--",
+				"color--white"
+			],
+			[
+				"pa",
+				"site--padding"
+			],
+			[
+				"dru",
+				"drupalThemeImages"
+			],
+			[
+				"old",
+				"oldpassword"
+			],
+			[
+				"s",
+				"success"
+			],
+			[
+				"gr",
+				"groups"
+			],
+			[
+				"get",
+				"getMembers"
+			],
+			[
+				"grou",
+				"groupClass"
+			],
+			[
+				"error_",
+				"error_reporting"
+			],
+			[
+				"group",
+				"groupname"
+			],
+			[
+				"drupal",
+				"drupalTheme"
+			],
+			[
+				"drup",
+				"drupalThemeInfo"
+			],
+			[
+				"mel",
+				"meleeWeapons"
+			],
+			[
+				"des",
+				"destination"
+			],
+			[
+				"te",
+				"templates"
+			],
+			[
+				"portr",
+				"Portrait"
+			],
+			[
+				"armo",
+				"armor_query"
+			],
+			[
+				"wea",
+				"weapons"
+			],
+			[
+				"c",
+				"configure"
+			],
+			[
+				"do",
+				"downloadPlugin"
+			],
+			[
+				"plug",
+				"pluginsDownload"
+			],
+			[
+				"env",
+				"environment"
+			],
+			[
+				"clea",
+				"cleanup"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"Word",
+				"WordPressMod"
+			],
+			[
+				"glo",
+				"global_env"
+			],
+			[
+				"de",
+				"destination"
+			],
+			[
+				"salt",
+				"saltCallback"
+			],
+			[
+				"posts",
+				"postslist"
+			],
+			[
+				"pl",
+				"plugins"
+			],
+			[
+				"fa",
+				"favicon"
+			],
+			[
+				"iln",
+				"inline-block"
+			],
+			[
+				"dest",
+				"destination_url"
+			],
+			[
+				"source",
+				"source_url"
+			],
+			[
+				"loca",
+				"localized_sql"
+			],
+			[
+				"du",
+				"dump_file"
+			],
+			[
+				"mys",
+				"mysql_database"
+			],
+			[
+				"ssh",
+				"ssh_user"
+			],
+			[
+				"target",
+				"target_dir"
+			],
+			[
+				"mysql",
+				"mysql_username"
+			],
+			[
+				"watch",
+				"Watch"
+			],
+			[
+				"wp_e",
+				"wp_enqueue_style"
+			],
+			[
+				"config",
+				"config_json"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"gulp: ",
+				"Gulp: Run last task"
+			],
+			[
+				"gu",
+				"Gulp"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"gutt",
+				"GutterColor: Clear Cache"
+			],
+			[
+				"Snippet: ",
+				"Snippet: angularJSdir"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ariksavage/Tools/devops-base",
+		"/Users/ariksavage/Tools/devops-base/build",
+		"/Users/ariksavage/Tools/devops-base/build/fonts",
+		"/Users/ariksavage/Tools/devops-base/build/icons",
+		"/Users/ariksavage/Tools/devops-base/build/style",
+		"/Users/ariksavage/Tools/devops-base/build/style/globals",
+		"/Users/ariksavage/Tools/devops-base/web",
+		"/Users/ariksavage/Tools/devops-base/web/fonts",
+		"/Users/ariksavage/Tools/devops-base/web/scripts",
+		"/Users/ariksavage/Tools/devops-base/web",
+		"/Users/ariksavage/Tools/devops-base/web/scripts",
+		"/Users/ariksavage/Tools/devops-base/web/scripts/library"
+	],
+	"file_history":
+	[
+		"/Users/ariksavage/Tools/devops-base/web/scripts/scripts.min.js",
+		"/Users/ariksavage/Tools/devops-base/build/style/globals/_fonts.scss",
+		"/Users/ariksavage/Tools/devops-base/gulp/gulp_tasks/fonts.task.js",
+		"/Users/ariksavage/Tools/devops-base/devops-base.sublime-project",
+		"/Users/ariksavage/Tools/devops-base/gulpfile.js",
+		"/Users/ariksavage/Tools/devops-base/build/style/_base-icons.scss",
+		"/Users/ariksavage/Tools/devops-base/build/scripts/file1.js",
+		"/Users/ariksavage/Tools/devops-base/build/scripts/file2.js",
+		"/Users/ariksavage/Tools/devops-base/build/scripts/library/jquery.min.js",
+		"/Users/ariksavage/Tools/devops-base/gulp/gulp_tasks/javascript.task.js",
+		"/Users/ariksavage/Tools/devops-base/gulp/gulp_tasks/icon-font.task.js",
+		"/Users/ariksavage/Tools/devops-base/gulp/gulp_tasks/functions.js",
+		"/Users/ariksavage/Tools/devops-base/build/style/globals/fonts.scss",
+		"/Users/ariksavage/Tools/devops-base/build/scripts/library/.keep",
+		"/Users/ariksavage/Tools/devops-base/gulp/package.json",
+		"/Users/ariksavage/Tools/devops-base/gulp/package-lock.json",
+		"/Users/ariksavage/.editorconfig",
+		"/Users/ariksavage/Projects/Personal/ariksavage.com/.gitignore",
+		"/Users/ariksavage/Projects/Personal/ariksavage.com/vagrant/Vagrantfile",
+		"/Users/ariksavage/Projects/Personal/ariksavage.com/vagrant/provision/install_dependencies.sh",
+		"/Users/ariksavage/Projects/Personal/ariksavage.com/config/vagrant.config.json",
+		"/Users/ariksavage/Projects/Personal/ariksavage.com/vagrant/provision/install_composer.sh",
+		"/Users/arik/Projects/ariksavage.com/data/web/mailtest.php",
+		"/Users/arik/Projects/ariksavage.com/vagrant/Vagrantfile",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/style.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/blocks/_drupal-messages.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/content/_page.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/content/_contact.scss",
+		"/Users/arik/Projects/ariksavage.com/data/composer.json",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/content/_post.scss",
+		"/Users/arik/Projects/ariksavage.com/gulp/.scss-lint.yml",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/content/_code.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/regions/_region.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/patterns/_grid.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/content/_design.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/content/_overview-page.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/views/_view.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/blocks/_block.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/patterns/_pop.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/content/_writing.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/content/_project.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/regions/_global-footer.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/pages/_page.scss",
+		"/Users/arik/Projects/ariksavage.com/gulp/.gitignore",
+		"/Users/arik/Projects/ariksavage.com/package-lock.json",
+		"/Users/arik/Projects/ariksavage.com/package.json",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/regions/_main-content.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/patterns/_layouts.scss",
+		"/Users/arik/Projects/ariksavage.com/sites/default/services.yml",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/reviews/node--review--full.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/scss/_images.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/patterns/_animations.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/projects/node--project--teaser.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/lead/lead.theme",
+		"/Users/arik/Projects/ariksavage.com/themes/lead/lead.info.yml",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/reviews/node--review--teaser.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/bones.theme",
+		"/Users/arik/Projects/ariksavage.com/ariksavage.sublime-project",
+		"/Users/arik/Projects/ariksavage.com/.gitignore",
+		"/Users/arik/Projects/ariksavage.com/sites/default/settings.php",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/blocks/_block-pop-local-tasks.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/elements/_field.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/field/field.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/field/field--image.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/layout/node.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/savage/savage.theme",
+		"/Users/arik/Projects/ariksavage.com/themes/savage/savage.info.yml",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/views/views-view.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/pages/_overview-page.scss",
+		"/Users/arik/Projects/ariksavage.com/data/web/.htaccess",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/pop.theme",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/layout/html.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/layout/node--teaser.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/regions/region--content.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/views/views-view--display-page.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/views/views-view--display-page.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/page/page--view.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/block/block--system-main-block--view.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/views/views-view-unformatted--page.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/code/node--codepen-embed--teaser.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/components/_breadcrumbs.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/content/_page-node-type-review.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/regions/_page-header.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/regions/_global-header.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/page/page.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/layout/node--post--teaser.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/global/_mixins.scss",
+		"/Users/arik/Projects/ariksavage.com/data/web/themes/custom/pop/templates/page/page.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/pages/_resume-old.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/resume/node/node--resume-work-experience--resume.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/pages/_resume.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/layout/node.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/pages/_design.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/pages/_writing.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/pages/_code.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/global/_typography.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/pages/_about.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/images/contact-portrait.svg",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/pages/_contact.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/code/node--resume-project--teaser.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/pages/_posts.scss",
+		"/Users/arik/Projects/ariksavage.com/data/web/core/themes/stable/templates/navigation/links.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/navigation/links.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/writing/node--view--books--steve-and-the-narwhal.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/content/_path-writing-reviews.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/elements/_normalize.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/block/block--views-block.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/block/block--system-branding-block.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/writing/node--book--teaser.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/elements/_images.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/field/field--entity-reference.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/field/field--field-subtitle.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/reviews/taxonomy-term--innocent-words-issues.html.twig",
+		"/Users/arik/Projects/ariksavage.com/data/web/core/themes/stable/templates/field/image-formatter.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/reviews/field/field--node--field-tracks--review.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/block/block--system-main-block.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/field/image.html.twig",
+		"/Users/arik/Projects/ariksavage.com/data/web/core/themes/stable/templates/field/image.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/block/block--fieldblock.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/writing/node--view--books--to-the-wind-block.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/design/node--design-piece.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/navigation/breadcrumb.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/bones/templates/block/block--system-breadcrumb-block.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/scss/regions/page-header.scss",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/code/node--resume-project--full.html.twig",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/code/node--codepen-embed--full.html.twig",
+		"/Users/arik/Projects/ariksavage.com/data/web/sites/default/services.yml",
+		"/Users/arik/Projects/ariksavage.com/themes/pop/templates/design/node--design-piece--teaser.html.twig"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			" '",
+			"style",
+			"path",
+			"font.ext",
+			"scss",
+			"scssPath",
+			"Style",
+			"writeSass",
+			"minimi",
+			"minimis",
+			"item",
+			"Style",
+			"style"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.546407350352,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 212.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 188.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "devops-base.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"_view",
+				"Theme: Pop: SCSS/views/_view.scss"
+			],
+			[
+				"_over",
+				"Theme: Pop: SCSS/content/_overview-page.scss"
+			],
+			[
+				"_reg",
+				"Theme: Pop: SCSS/regions/_region.scss"
+			],
+			[
+				"_page",
+				"Theme: Pop: SCSS/pages/_page.scss"
+			],
+			[
+				"_image",
+				"Theme: Bones/scss/_images.scss"
+			],
+			[
+				"page.sc",
+				"Theme: Pop: SCSS/pages/_page.scss"
+			],
+			[
+				"mixins",
+				"Theme: Pop: SCSS/global/_mixins.scss"
+			],
+			[
+				"_code",
+				"Theme: Pop: SCSS/pages/_code.scss"
+			],
+			[
+				"links.html",
+				"Web/core/themes/stable/templates/navigation/links.html.twig"
+			],
+			[
+				"_wri",
+				"Theme: Pop: SCSS/pages/_writing.scss"
+			],
+			[
+				"_wr",
+				"Theme: Pop: SCSS/pages/_writing.scss"
+			],
+			[
+				"stable image-fo",
+				"Web/core/themes/stable/templates/field/image-formatter.html.twig"
+			],
+			[
+				"stable image",
+				"Web/core/themes/stable/templates/field/image.html.twig"
+			],
+			[
+				"_nav",
+				"Theme: Pop: SCSS/blocks/_navigation.scss"
+			],
+			[
+				"_con",
+				"Theme: Pop: SCSS/pages/_contact.scss"
+			],
+			[
+				"_po",
+				"Theme: Pop: SCSS/patterns/_pop.scss"
+			],
+			[
+				"_cod",
+				"Theme: Pop: SCSS/pages/_code.scss"
+			],
+			[
+				"_gri",
+				"Theme: Pop: SCSS/patterns/_grid.scss"
+			],
+			[
+				"_pop",
+				"Theme: Pop: SCSS/patterns/_pop.scss"
+			],
+			[
+				"local-tasks",
+				"Theme: Pop: SCSS/blocks/_block-pop-local-tasks.scss"
+			],
+			[
+				"stable menu-local-task",
+				"Web/core/themes/stable/templates/navigation/menu-local-task.html.twig"
+			],
+			[
+				"stable menu-local-",
+				"Web/core/themes/stable/templates/navigation/menu-local-tasks.html.twig"
+			],
+			[
+				"admin-t",
+				"Theme: Pop: SCSS/blocks/_admin-toolbar.scss"
+			],
+			[
+				"global-f",
+				"Theme: Pop: SCSS/regions/_global-footer.scss"
+			],
+			[
+				"local-tasks.s",
+				"Theme: Pop: SCSS/blocks/_block-pop-local-tasks.scss"
+			],
+			[
+				"global-h",
+				"Theme: Pop: SCSS/regions/_global-header.scss"
+			],
+			[
+				"main-",
+				"Theme: Pop: SCSS/regions/_main-content.scss"
+			],
+			[
+				"block-pop",
+				"Theme: Pop: SCSS/blocks/_block-pop-local-tasks.scss"
+			],
+			[
+				"core/themes/stable/templates/content/page-title.html.twig",
+				"Web/core/themes/stable/templates/content/page-title.html.twig"
+			],
+			[
+				"gulp",
+				"ariksavage.local/gulpfile.js"
+			],
+			[
+				"page-t",
+				"Web/core/themes/classy/templates/content/page-title.html.twig"
+			],
+			[
+				"page-tit",
+				"Theme: Bones: Templates/content/page-title.html.twig"
+			],
+			[
+				"themes/savage/scss/blocks/_block.scss",
+				"ariksavage.local/themes/savage/scss/blocks/_block.scss"
+			],
+			[
+				"block-views",
+				"Theme: Bones: Templates/block/block--views-block.html.twig"
+			],
+			[
+				"writi",
+				"Theme: Lead: SCSS/pages/_writing.scss"
+			],
+			[
+				"bones/templates/views/views-view.html.twig",
+				"Theme: Bones/templates/views/views-view.html.twig"
+			],
+			[
+				"stable navigation/breadcrumb.html.twig",
+				"Web/core/themes/stable/templates/navigation/breadcrumb.html.twig"
+			],
+			[
+				"gulpfil",
+				"ariksavage.local/gulpfile.js"
+			],
+			[
+				"scss-li",
+				"ariksavage.local/gulp/.scss-lint.yml"
+			],
+			[
+				"core/themes/stable/templates/views/views-view.html.twig",
+				"Web/core/themes/stable/templates/views/views-view.html.twig"
+			],
+			[
+				"core/themes/stable/templates/form/container.html.twig",
+				"Web/core/themes/stable/templates/form/container.html.twig"
+			],
+			[
+				"rdf-m",
+				"Web/core/themes/classy/templates/misc/rdf-metadata.html.twig"
+			],
+			[
+				"field--node",
+				"Web/core/modules/node/templates/field--node--title.html.twig"
+			],
+			[
+				"field.field.node.review.field_cover",
+				"Web/sites/default/files/config_WQeeLvlpyfuw_P9p8d1ddLJfe1Fc-siaum2yN-x7PqKEpvbDrs14m54KbClnsnjkwBOJQdpekg/sync/field.field.node.review.field_cover.yml"
+			],
+			[
+				"",
+				"ariksavage.local/themes/bones/scss/_images.scss"
+			],
+			[
+				"field_cover",
+				"Drupal Config/field.storage.node.field_cover.yml"
+			],
+			[
+				"core.extension.yml",
+				"Drupal Config/core.extension.yml"
+			],
+			[
+				"_images",
+				"ariksavage.local/themes/lead/scss/element/_images.scss"
+			],
+			[
+				"_abou",
+				"ariksavage.local/themes/lead/scss/colony/_about.scss"
+			],
+			[
+				"_block",
+				"ariksavage.local/themes/lead/scss/molecule/_block-menu.scss"
+			],
+			[
+				"_typo",
+				"ariksavage.local/themes/lead/scss/global/_typography.scss"
+			],
+			[
+				"_main",
+				"ariksavage.local/themes/lead/scss/organism/_main-content.scss"
+			],
+			[
+				"_region",
+				"ariksavage.local/themes/lead/scss/organism/_region-header.scss"
+			],
+			[
+				"colony_about",
+				"ariksavage.local/themes/lead/scss/colony/_about.scss"
+			],
+			[
+				"_about",
+				"Theme: Savage: SCSS/content/_about.scss"
+			],
+			[
+				"_block-",
+				"ariksavage.local/themes/lead/scss/molecule/_block-menu.scss"
+			],
+			[
+				"textarea",
+				"Web/core/modules/system/templates/textarea.html.twig"
+			],
+			[
+				"input.html",
+				"Web/core/themes/classy/templates/form/input.html.twig"
+			],
+			[
+				"form-element-la",
+				"Web/core/themes/classy/templates/form/form-element-label.html.twig"
+			],
+			[
+				"form-ele",
+				"Theme: Savage: Templates/form/form-element.html.twig"
+			],
+			[
+				"scss-l",
+				"ariksavage.local/gulp/.scss-lint.yml"
+			],
+			[
+				"classy block.html",
+				"Web/core/themes/classy/templates/block/block.html.twig"
+			],
+			[
+				"stable block--system-branding-block.html.twig",
+				"Theme: Savage: Templates/block/block--system-branding-block.html.twig"
+			],
+			[
+				"classy views-view-unformatted.html.twig",
+				"Web/core/themes/classy/templates/views/views-view-unformatted.html.twig"
+			],
+			[
+				"core/themes/classy/templates/content/media.html.twig",
+				"Web/core/themes/classy/templates/content/media.html.twig"
+			],
+			[
+				"media/templates/media.html.twig",
+				"Web/core/modules/media/templates/media.html.twig"
+			],
+			[
+				"classy html",
+				"Web/core/themes/classy/templates/layout/html.html.twig"
+			],
+			[
+				"classy content media",
+				"Web/core/themes/classy/templates/content/media.html.twig"
+			],
+			[
+				"classy field image-",
+				"Web/core/themes/classy/templates/field/image-formatter.html.twig"
+			],
+			[
+				"classy node.html",
+				"Web/core/themes/classy/templates/content/node.html.twig"
+			],
+			[
+				"classy block--system-menu-block.html.twig",
+				"Web/core/themes/classy/templates/block/block--system-menu-block.html.twig"
+			],
+			[
+				"classy navigation menu",
+				"Web/core/themes/classy/templates/navigation/menu.html.twig"
+			],
+			[
+				"classy region",
+				"Web/core/themes/classy/templates/layout/region.html.twig"
+			],
+			[
+				"classy layout page",
+				"Web/core/themes/classy/templates/layout/page.html.twig"
+			],
+			[
+				"classy html.",
+				"Web/core/themes/classy/templates/layout/html.html.twig"
+			],
+			[
+				"_admi",
+				"Theme: Savage: SCSS/blocks/_admin-toolbar.scss"
+			],
+			[
+				"_glob",
+				"Theme: Savage/scss/layout/_global-header.scss"
+			],
+			[
+				"_navig",
+				"Theme: Savage: SCSS/layout/_navigation.scss"
+			],
+			[
+				"_p",
+				"Theme: Savage/scss/layout/_page.scss"
+			],
+			[
+				"_conta",
+				"Theme: Savage: SCSS/content/_contact.scss"
+			],
+			[
+				"_res",
+				"Theme: Savage: SCSS/content/_resume.scss"
+			],
+			[
+				"_ab",
+				"Theme: Savage: SCSS/content/_about.scss"
+			],
+			[
+				"_mix",
+				"Theme: Savage/scss/global/_mixins.scss"
+			],
+			[
+				"_col",
+				"Theme: Savage/scss/global/_colors.scss"
+			],
+			[
+				"_globa",
+				"Theme: Savage: SCSS/layout/_global-header.scss"
+			],
+			[
+				"_for",
+				"Theme: Savage: SCSS/form/_form-item.scss"
+			],
+			[
+				"_colo",
+				"Theme: Savage: SCSS/global/_colors.scss"
+			],
+			[
+				"form-e",
+				"Web/core/themes/classy/templates/form/form-element.html.twig"
+			],
+			[
+				"_mixin",
+				"Theme: Savage: SCSS/global/_mixins.scss"
+			],
+			[
+				"_ty",
+				"Theme: Savage/scss/global/_typography.scss"
+			],
+			[
+				"_review",
+				"Theme: Savage: SCSS/content/_reviews.scss"
+			],
+			[
+				"classtaxonomy-term",
+				"Web/core/themes/classy/templates/content/taxonomy-term.html.twig"
+			],
+			[
+				"field--lin",
+				"COMPILED Theme: Savage/templates/field/field--link.html.twig"
+			],
+			[
+				"_node",
+				"Theme: Savage/scss/content/_node.scss"
+			],
+			[
+				"classy taxonom",
+				"Web/core/themes/classy/templates/content/taxonomy-term.html.twig"
+			],
+			[
+				"classy node",
+				"Web/core/themes/classy/templates/content/node.html.twig"
+			],
+			[
+				"_hex",
+				"Theme: Savage/scss/_hex.scss"
+			],
+			[
+				"_rev",
+				"Theme: Savage/scss/content/_reviews.scss"
+			],
+			[
+				"taxonomy-term.",
+				"Web/core/modules/taxonomy/templates/taxonomy-term.html.twig"
+			],
+			[
+				"class media.html.twig",
+				"Web/core/themes/classy/templates/content/media.html.twig"
+			],
+			[
+				"classy/field/ima",
+				"Web/core/themes/classy/templates/field/image.html.twig"
+			],
+			[
+				"classy media.ht",
+				"Web/core/themes/classy/templates/content/media.html.twig"
+			],
+			[
+				"classycontainer.ht",
+				"Web/core/themes/classy/templates/form/container.html.twig"
+			],
+			[
+				"classy views-view",
+				"Web/core/themes/classy/templates/views/views-view.html.twig"
+			],
+			[
+				"classy field--text",
+				"Web/core/themes/classy/templates/field/field--text.html.twig"
+			],
+			[
+				"classy field--text-with-summary.html.twig",
+				"Web/core/themes/classy/templates/field/field--text-with-summary.html.twig"
+			],
+			[
+				"_typ",
+				"Theme: Savage/scss/global/_typography.scss"
+			],
+			[
+				"off-canvas-p",
+				"Web/core/modules/system/templates/off-canvas-page-wrapper.html.twig"
+			],
+			[
+				"stable html.html.",
+				"Web/core/themes/stable/templates/layout/html.html.twig"
+			],
+			[
+				"views-view-unfor",
+				"Web/core/themes/classy/templates/views/views-view-unformatted.html.twig"
+			],
+			[
+				"views-view",
+				"Web/core/modules/views/templates/views-view.html.twig"
+			],
+			[
+				"views-view-fields",
+				"Web/core/modules/views/templates/views-view-fields.html.twig"
+			],
+			[
+				"views-view-field",
+				"Web/core/modules/views/templates/views-view-field.html.twig"
+			],
+			[
+				"node.html.",
+				"Web/core/modules/node/templates/node.html.twig"
+			],
+			[
+				"image-form",
+				"Web/core/themes/classy/templates/field/image-formatter.html.twig"
+			],
+			[
+				"media.ht",
+				"Web/core/themes/classy/templates/content/media.html.twig"
+			],
+			[
+				"view-vi",
+				"Web/core/modules/views/templates/views-view-unformatted.html.twig"
+			],
+			[
+				"_glo",
+				"Theme: Savage/scss/layout/_global-header.scss"
+			],
+			[
+				"_pag",
+				"Theme: Savage/scss/layout/_page.scss"
+			],
+			[
+				"paragraph.html.twig",
+				"Web/modules/contrib/paragraphs/templates/paragraph.html.twig"
+			],
+			[
+				"paragraph.htm",
+				"ariksavage.local/data/web/modules/contrib/paragraphs/templates/paragraph.html.twig"
+			],
+			[
+				"_gla",
+				"Theme: Savage/scss/layout/_global-header.scss"
+			],
+			[
+				"classy node ht",
+				"Web/core/themes/classy/templates/content/node.html.twig"
+			],
+			[
+				"class region",
+				"Web/core/themes/classy/templates/layout/region.html.twig"
+			],
+			[
+				"paragraph.tw",
+				"ariksavage.local/data/web/modules/contrib/paragraphs/templates/paragraph.html.twig"
+			],
+			[
+				"field twig class",
+				"Web/core/themes/classy/templates/field/field.html.twig"
+			],
+			[
+				"field",
+				"Web/core/modules/system/templates/field.html.twig"
+			],
+			[
+				"fieldtwig",
+				"Web/core/themes/classy/templates/field/field.html.twig"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 382.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"# 0.1.0 (2017-08-15)"
+			]
+		],
+		"width": 795.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
