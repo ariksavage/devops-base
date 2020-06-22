@@ -1,0 +1,8 @@
+// Imports must be relative to the gulpfile
+@import './globals/variables';
+@import './globals/mixins';
+@import './globals/colors';
+@import './globals/fonts';
+@import './globals/typography';
+
+@import './components/page';

@@ -1,40 +1,23 @@
 {
-  "name": "base-box",
+  "name": "ariksavage.com",
   "version": "1.0.0",
-  "description": "Base gulp resources for a web build",
+  "description": "",
   "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "mocha tests/index.js",
-    "tools": "tools/index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ariksavage/devops-base.git"
+    "url": "git+https://github.com/ariksavage/ariksavage.com.git"
   },
-  "keywords": [
-    "gulp",
-    "sass",
-    "lint"
-  ],
-  "author": "Arik Savage",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ariksavage/devops-base/issues"
+    "url": "https://github.com/ariksavage/ariksavage.com/issues"
   },
-  "homepage": "https://github.com/ariksavage/devops-base#readme",
-  "dependencies": {
-    "clear": "^0.1.0",
-    "colors": "^1.3.3",
-    "dotenv": "^6.2.0",
-    "gulp": "^4.0.0",
-    "gulp-autoprefixer": "^6.0.0",
-    "gulp-concat": "^2.6.1",
-    "gulp-flatten": "^0.4.0",
-    "gulp-imagemin": "^5.0.3",
-    "gulp-rename": "^1.4.0",
-    "gulp-sass": "^4.0.2",
-    "gulp-sass-lint": "^1.4.0",
-    "mocha": "^5.2.0",
-    "nightmare": "^3.0.1"
-  }
+  "homepage": "https://github.com/ariksavage/ariksavage.com#readme"
 }
